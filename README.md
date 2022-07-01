@@ -1,20 +1,19 @@
 # Hi there, I'm Serkan 👋 
 
-I'm self-taught learner. Master of Science student @TUM
+I'm a self-taught learner. Master of Science student @TUM
 
 ## I'm an Emgineer, Student and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ I currently focused on complex algorithms and Vue.js
-- 
 
 ### Connect with me:
 
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/serkan-oz#gh-light-mode-only)
+(./img/linkedin-light.svg)(https://www.linkedin.com/in/serkan-oz)
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<a align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -41,5 +40,4 @@ I'm self-taught learner. Master of Science student @TUM
 
 </details>
 
-[linkedin]: https://www.linkedin.com/in/serkan-oz/
-[e-mail]: 
+[linkedin]: https://www.linkedin.com/in/serkan-oz/ 
