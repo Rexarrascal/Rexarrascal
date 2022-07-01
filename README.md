@@ -10,7 +10,7 @@ I'm self-taught learner. Master of Science student @TUM
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/serkan-oz#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/serkan-oz#gh-light-mode-only)
 
 ### Languages and Tools:
 
@@ -42,3 +42,4 @@ I'm self-taught learner. Master of Science student @TUM
 </details>
 
 [linkedin]: https://www.linkedin.com/in/serkan-oz/
+[e-mail]: 
