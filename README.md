@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Serkan 👋</h1>
-<h3 align="center">I'm a self-taught learner. Master of Science student @TUM</h3>
+<h3 align="center">I'm a self-taught learner. M.Sc. student @TUM</h3>
 
 - 🌱 I’m currently learning **react**.
 
