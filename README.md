@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Serkan 👋</h1>
 <h3 align="center">I'm a self-taught learner. M.Sc. student @TUM</h3>
 
-- 🌱 I’m currently learning **react**.
+- 🌱 I’m currently learning **Typescript**.
 
 - 📫 How to reach me **cv.serkanoz@gmail.com**
 
